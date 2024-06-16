@@ -1,1 +1,1 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBenster)](https://github.com/TheBenster/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBensters)](https://github.com/TheBenster/github-readme-stats)
